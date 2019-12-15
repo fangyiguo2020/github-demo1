@@ -1,0 +1,14 @@
+table{
+	border:2px solid orange;
+	width:45%;
+	border-collapse:collapse;
+}
+
+td,th{
+	border:1px solid orange;
+}
+
+.msg{
+	color:blue;
+	font-weight:bold;
+}

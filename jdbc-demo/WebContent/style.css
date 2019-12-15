@@ -1,0 +1,13 @@
+table{
+	width:60%;
+	border:2px solid orange;
+	border-collapse: collapse;
+}
+
+td,th{
+	border:1px solid orange;
+}
+
+th{
+	height:25px;
+}
